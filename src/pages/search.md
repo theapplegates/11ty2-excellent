@@ -17,3 +17,4 @@ layout: page
 	  selector: 'div#search',
 	});
   </script>
+<div id="search"></div>
