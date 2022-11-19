@@ -6,8 +6,6 @@ permalink: /search/index.html
 description: Search Page
 layout: page
 ---
-<head>
-	<body>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
   <script type="text/javascript">
@@ -19,5 +17,3 @@ layout: page
 	  selector: 'div#search',
 	});
   </script>
-	</body>
-</head>
